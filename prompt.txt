@@ -1,0 +1,6 @@
+# Wide Canvas Default Prompt Rules
+
+Important: After you give the code always give the run command:
+npx --yes live-server --port=8080 --no-browser
+
+Feel free to modify these rules based on your specific needs!
